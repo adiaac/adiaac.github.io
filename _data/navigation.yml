@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "My Work"
+  - title: "about me!"
     url: /my_work/
 
-  - title: "CV"
+  - title: "cv"
     url: /cv/

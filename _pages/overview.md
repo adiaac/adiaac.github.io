@@ -1,11 +1,10 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: "About me"
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 I am a third year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. My research examines how market factors and policies shape access and quality in health services, especially in the context of health equity and addressing health disparities.
