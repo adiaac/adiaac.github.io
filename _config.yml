@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander C Adia"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Alexander C Adia"
 description              : &description "Health Policy Doctoral Student at UC Berkeley"
