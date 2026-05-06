@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://publichealth.berkeley.edu/academics/programs/health-policy-phd'>UC Berkeley</a>. Health Policy PhD Candidate.
 
