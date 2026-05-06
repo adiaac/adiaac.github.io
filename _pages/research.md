@@ -5,7 +5,6 @@ permalink: /research/
 description: Here's an overview of my current agenda. 
 nav: true
 nav_order: 4
-horizontal: false
 ---
 
 # Current Projects
