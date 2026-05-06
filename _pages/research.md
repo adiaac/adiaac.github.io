@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: Research 
+permalink: /Research/
 description: Here's an overview of my current agenda. 
 nav: true
 nav_order: 4
