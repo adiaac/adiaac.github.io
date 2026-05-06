@@ -6,7 +6,7 @@ subtitle: <a href='https://publichealth.berkeley.edu/academics/programs/health-p
 
 profile:
   align: right
-  image: pic.jpg
+  image: newbio2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Berkeley, California</p>
