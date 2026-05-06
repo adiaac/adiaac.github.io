@@ -20,9 +20,9 @@ I am a fourth year doctoral student in Health Policy (Population and Data Scienc
 
 I consider how policy and market changes impact patient welfare, especially affordability and quality of care. My doctoral research centers two important topics of interest in healthcare services and policy: 
 
-1) Ownership of hospitals (for profit vs not-for-profit, private equity, etc.) and its impacts on patients, as well as impact of ownership change 
+1) Commercialization of healthcare provision and impact on patients, with a focus on hospital ownership by for profit status, system affiliation, and private equity ownership
 
-2) Medical debt, including its distribution across different patients as well as the policies that impact it
+2) Affordability of healthcare and cost burden for patients, with a focus on medical debt and impact of health policy
    
 I also hold a specific interest in how policies impact inequities in health, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
 
