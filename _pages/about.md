@@ -11,12 +11,20 @@ profile:
   more_info: >
     <p>Berkeley, California</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-I am a Health Policy PhD candidate at UC Berkeley with a specialization in Population Health and Data Science. My research focuses on improving health for people involved in the United States carceral system through decarceration efforts, addressing human rights concerns, and improved medical care. 
+I am a fourth year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. **I plan to graduate in Spring 2027 and will be on the 2026-2027 academic job market.**
 
-Prior to starting my PhD, I worked as a programmer analyst on cost-effectiveness and simulation modeling studies focused on hepatitis C elimination and overdose reduction. I have an MPH in Health Policy from the Rollins School of Public Health at Emory University and a BS in Anthropology from Portland State University. 
+I consider how policy and market changes impact patient welfare, especially affordability and quality of care. My doctoral research centers two important topics of interest in healthcare services and policy: 
+
+1) Ownership of hospitals (for profit vs not-for-profit, private equity, etc.) and its impacts on patients, as well as impact of ownership change 
+
+2) Medical debt, including its distribution across different patients as well as the policies that impact it
+   
+I also hold a specific interest in how policies impact inequities in health, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
+
+You can contact me at a dot adia at berkeley dot edu. 
 
