@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Hep C Testing Calculator
+description: Interactive R Shiny application to assess cost-effectiveness of different hepatitis C testing strategies globally. 
+img: hepc1.png
 importance: 3
-category: fun
+category: past
 ---
 
 Every project has a beautiful feature showcase page.
