@@ -9,7 +9,7 @@ profile:
   image: newbio2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Berkeley, California</p>
+    You can contact me at a dot adia at berkeley dot edu. 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,5 +26,5 @@ I consider how policy and market changes impact patient welfare, especially affo
    
 I also hold a specific interest in how policies impact inequities in health by income, insurance coverage, and race/ethnicity, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
 
-You can contact me at a dot adia at berkeley dot edu. 
+
 
