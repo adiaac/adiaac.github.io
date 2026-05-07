@@ -2,7 +2,8 @@
 layout: page
 title: about me!
 permalink: /about
-
+nav: true
+nav_order: 2
 ---
 
 At Berkeley, I am a trainee at the Center for Health Management and Policy Research [(CHAMP)](https://choir.berkeley.edu/team/trainees) and also a graduate student affiliate at the [Berkeley Center for Social Medicine](https://issi.berkeley.edu/bcsm). I am also a Policy Fellow at the [DISCERN Collaborative](https://www.preventdisinformation.org/).
