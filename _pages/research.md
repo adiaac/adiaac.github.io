@@ -18,12 +18,11 @@ I use a national 2% sample of credit report data from one of the major credit re
 ***Funding***: Robert Wood Johnson Foundation - Health Policy Research Scholars Dissertation Award, Horowitz Foundation for Social Policy Research Award
 
 ## Hospital Ownership and Medical Debt
-As part of a collaboration with Ambar La Forgia, Adam Leive, and Elena Prager (University of Rochester). In our first paper, we analyze how differences in hospital and health system characteristics may be associated with medical debt, leveraging markets with single owners to attribute debt to hospitals. 
+I am working on two papers as part of a collaboration with Ambar La Forgia, Adam Leive, and Elena Prager (University of Rochester). In our first paper, we analyze how differences in hospital and health system characteristics may be associated with medical debt, leveraging markets with single owners to attribute debt to hospitals. 
 
 In our second paper, we leverage a linkage of all-payer admissions data and a full "sample" of borrowers in California to examine how ownership change impacts underlying medical debt.
 
-***Funding***:
-An extension of this workstream linking all-payer admissions data and a full "sample" of borrowers in California received a 2026 National Institute for Healthcare Management (NIHCM) Research Grant.
+***Funding***: 2026 National Institute for Healthcare Management (NIHCM) Research Grant
 
 ## Racial and Ethnic Differences in Medical Debt *[Dissertation]*
 Leveraging a novel dataset of credit reports with imputed race and ethnicity from RAND BISG, I study differences in trends in medical debt in collections. These findings are set to be published in *Health Affairs Scholar.* My coauthors are Jenny Guadamuz, Charleen Hsuan, and Hector Rodriguez.
@@ -33,8 +32,7 @@ Leveraging a novel dataset of credit reports with imputed race and ethnicity fro
 ## Hospital Ownership and Health Equity *[Dissertation]*
 While studies of ownership change and consolidation largely focus on overall effects on access and quality, fewer studies examine how these impacts may be differentially distributed across different patient populations. To address this gap, I study the impacts of hospital ownership change on access, quality, and safety by a) racial and ethnic group and b) payer coverage. In this study, I leverage a combination of hospital ownership datasets and all-payer admissions from fourteen states.
 
-***Funding***:
-Robert Wood Johnson Foundation - Family Policy Hub to Reduce Racial Inequities and Health, NIMHD F31 Award [pending administrative review; score 21]
+***Funding***: Robert Wood Johnson Foundation - Family Policy Hub to Reduce Racial Inequities and Health, NIMHD F31 Award [pending administrative review; score 21]
 
 
 # Past Research
