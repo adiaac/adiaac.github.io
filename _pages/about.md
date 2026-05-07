@@ -2,10 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://publichealth.berkeley.edu/academics/programs/health-policy-phd'>UC Berkeley</a>. Health Policy PhD Candidate.
+subtitle: UC Berkeley Health Policy PhD Candidate 
 
 profile:
-  align: right
+  align: left
   image: newbio2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -24,7 +24,7 @@ I consider how policy and market changes impact patient welfare, especially affo
 
 2) Affordability of healthcare and cost burden for patients, with a focus on medical debt and impact of health policy
    
-I also hold a specific interest in how policies impact inequities in health, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
+I also hold a specific interest in how policies impact inequities in health by income, insurance coverage, and race/ethnicity, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
 
 You can contact me at a dot adia at berkeley dot edu. 
 
