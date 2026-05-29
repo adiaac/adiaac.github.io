@@ -24,7 +24,7 @@ I consider how policy and market changes impact patient welfare, especially affo
 
 2) Affordability of healthcare and cost burden for patients, with a focus on medical debt and impact of health policy
    
-I also hold a specific interest in how policies impact inequities in health by income, insurance coverage, and race/ethnicity, built off my extensive pre-doctoral research experience on topics related to health equity as well as doctoral training as a Robert Wood Johnson Foundation Health Policy Research Scholar. 
+I also hold a specific interest in how policies impact inequities in health by income, insurance coverage, and race/ethnicity, built off my extensive pre-doctoral research experience on topics related to health equity.
 
-
+To support my doctoral research, I have won **a total of $238,875 in grant funding from external funders**, including the National Institute on Minority Health and Health Disparities (NIMHD), National Institute for Healthcare Management (NIHCM) Foundation, the Robert Wood Johnson Foundation, and Horowitz Foundation for Social Policy Research.
 

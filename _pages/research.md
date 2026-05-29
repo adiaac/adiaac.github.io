@@ -32,7 +32,7 @@ Leveraging a novel dataset of credit reports with imputed race and ethnicity fro
 ## Hospital Ownership and Health Equity *[Dissertation]*
 While studies of ownership change and consolidation largely focus on overall effects on access and quality, fewer studies examine how these impacts may be differentially distributed across different patient populations. To address this gap, I study the impacts of hospital ownership change on access, quality, and safety by a) racial and ethnic group and b) payer coverage. In this study, I leverage a combination of hospital ownership datasets and all-payer admissions from fourteen states.
 
-***Funding***: Robert Wood Johnson Foundation - Family Policy Hub to Reduce Racial Inequities and Health, NIMHD F31 Award [pending administrative review; score 21]
+***Funding***: Robert Wood Johnson Foundation - Family Policy Hub to Reduce Racial Inequities and Health, NIMHD F31 Award
 
 
 # Past Research
