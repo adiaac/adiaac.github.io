@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a fourth year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. **I plan to graduate in Spring 2027 and will be on the 2026-2027 academic job market.**
+I am a fifth year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. **I plan to graduate in Spring 2027 and am on the 2026-2027 academic job market.**
 
 I consider how policy and market changes impact patient welfare, especially affordability and quality of care. My doctoral research centers two important topics of interest in healthcare services and policy: 
 
