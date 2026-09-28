@@ -6,6 +6,11 @@ description: Here's an overview of my teaching experience.
 nav: true
 nav_order: 5
 ---
+## PBHLTH 298: Health Policy PhD Dissertation Seminar 
+- University of California, Berkeley
+- Student Organizer / Instructor (Spring 2027)
+
+Organize advanced students (Year 3+) in the PhD Program in Health Policy. Students present ongoing and completed dissertation work. Guest speakers provide additional insights relevant to advanced students, including considerations for the job market and the transition to early career faculty. 
 
 ## PBHLTH 224W: Organizational Behavior and Management in Health Care
 - University of California, Berkeley
